@@ -63,7 +63,7 @@ The industry exhibits **high market fragmentation** rather than a winner-take-al
 
 ## 💻 Open-Source GitHub Projects
 
-*Curated open-source compliance management frameworks, security scanners, policy engines, and GRC automation tools sorted by GitHub star counts (descending).*
+*Curated open-source compliance management frameworks, security scanners, policy engines, and GRC automation tools sorted by GitHub Stars_Counts (descending).*
 
 | Project 🌟 | GitHub_Stars ⭐ | Description 📖 |
 | :--- | :--- | :--- |
